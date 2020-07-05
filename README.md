@@ -1,5 +1,5 @@
-# Fall-Detection
-Human Fall Detection from a Video Clip of a CCTV camera feed
+# Introduction
+Human Fall Detection from a Video Clip of a CCTV camera feed, which also alerts the user via E-mail.
 
 ## Requirements
 1. MATLAB - R2019b or higher
