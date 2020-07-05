@@ -1,8 +1,5 @@
 function [] = sample()
 
-% finding path where all files in the program are stored
-%[path,name,ext] = fileparts(mfilename('E:\Documents\Study Material\Sem 6\IVP\Project\Progress Review\Group13_codes'));
-
 % reading the video
 vid = vision.VideoFileReader('video.mp4');
 
