@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 Human Fall Detection from a Video Clip of a CCTV camera feed, which also alerts the user via E-mail.
 
 ## Requirements
