@@ -4,9 +4,7 @@ This is a Home Surveillance System which has (only) 2 functionalities:
 2. Change Detection
 
 It employs Image and Video Processing techniques on a video clip of a CCTV camera feed, and detects:
-   <t><br> a. a person entering the scene
-   <t><br> b. falling action of a person
-<br>and sends email alerts to the user after a person or a fall is detected.
+(a.) a person entering the scene, (b.) falling action of a person ; and sends email alerts to the user after a person or a fall is detected.
 
 It then produces a summary of the changes taking place in the scene in the form of an avi file,
 and mails it to the user.
