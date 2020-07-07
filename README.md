@@ -27,6 +27,7 @@ and mails it to the user.
 To edit sender's and receiver's email addresses, and password, message, and attachments; modify 'changedetectmail.m', 'persondetectmail.m', 'sendfallemail.m' .
 
 ## Reference Papers
-<br>\[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
-<br>\[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
+\[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
+<br>
+\[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
 
