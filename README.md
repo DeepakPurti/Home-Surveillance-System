@@ -4,10 +4,11 @@ This is a Home Surveillance System which has (only) 2 functionalities:
 2. Change Detection
 
 It employs Image and Video Processing techniques on a video clip of a CCTV camera feed, and detects:
-a. a person entering the scene
-b. falling action of a person
-and sends email alerts to the user after a person or a fall is detected.
-It then produces a summary of the changes taking place in the scene in the form of an avi file,
+<br>a. a person entering the scene
+<br>b. falling action of a person
+<br>and sends email alerts to the user after a person or a fall is detected.
+
+<br>It then produces a summary of the changes taking place in the scene in the form of an avi file,
 and mails it to the user.
 
 ## Requirements
@@ -28,6 +29,6 @@ and mails it to the user.
 To edit sender's and receiver's email addresses, and password, message, and attachments; modify 'changedetectmail.m', 'persondetectmail.m', 'sendfallemail.m' .
 
 ## Reference Papers
-\[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
-\[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
+<br>\[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
+<br>\[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
 
