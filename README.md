@@ -1,20 +1,33 @@
 ## Introduction
-Human Fall Detection from a Video Clip of a CCTV camera feed, which also alerts the user via E-mail.
+This is a Home Surveillance System which has (only) 2 functionalities:
+1. Fall Detection
+2. Change Detection
+
+It employs Image and Video Processing techniques on a video clip of a CCTV camera feed, and detects:
+a. a person entering the scene
+b. falling action of a person
+and sends email alerts to the user after a person or a fall is detected.
+It then produces a summary of the changes taking place in the scene in the form of an avi file,
+and mails it to the user.
 
 ## Requirements
 1. MATLAB - R2019b or higher
 2. MATLAB Toolboxes:
-   <br>a. Image Processing Toolbox
-   <br>b. Computer Vision Toolbox
+   <br>a. Image Acquisition Toolbox
+   <br>b. Image Processing Toolbox
+   <br>c. Computer Vision Toolbox
 
 ## Execution
-Run 'falldetection_via_videoclip.m' .
-This would read 'video.mp4' and detect the falling action of a human in that video.
-An e-mail alert would be send to user after fall detection.
+1. Run 'HomeSurveillance.m' .
+   This would read and process 'video.mp4'.
+2. An e-mail alert would be send to user when a person is detected, with a snapshot of the detected person ('persondetected.jpg').
+3. An e-mail alert would be send to user after fall detection.
+4. An e-mail would be send to user with the summary of changes taking place ('changesummary.avi').
 
 ## Modification
-To edit sender's and receiver's email addresses (and password and message), modify 'sendemail.m' .
+To edit sender's and receiver's email addresses, and password, message, and attachments; modify 'changedetectmail.m', 'persondetectmail.m', 'sendfallemail.m' .
 
-## Reference Paper
-Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
+## Reference Papers
+\[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
+\[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
 
