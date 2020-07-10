@@ -31,5 +31,5 @@ To edit sender's and receiver's email addresses, and password, message, and atta
 <br>
 \[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
 <br> [<i>Citation of Source Code utilised in this repository which follows a similar implementation</i> : Jussi Mattila (2020). Detect Changes from a Video
-<br> (https://www.mathworks.com/matlabcentral/fileexchange/42017-detect-changes-from-a-video), MATLAB Central File Exchange. Retrieved July 10, 2020.]
+<br> (https://www.mathworks.com/matlabcentral/fileexchange/42017-detect-changes-from-a-video), MATLAB Central File Exchange.]
 
