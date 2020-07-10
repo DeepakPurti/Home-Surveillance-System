@@ -30,6 +30,6 @@ To edit sender's and receiver's email addresses, and password, message, and atta
 \[1] Caroline Rougier, Jean Meunier, Alain St-Arnaud, Jacqueline Rousseau ; “Fall Detection from Human Shape and Motion History Using Video Surveillance”; 21st International Conference on Advanced Information Networking and Applications Workshops (AINAW’07), 2007.
 <br>
 \[2] Peter Sand and Seth Teller; “Video Matching”; ACM Transactions on Graphics (TOG); 2004
-<br> [<i>Citation of Source Code utilised in this repository which follows a similar implementation</i> :
-<br> Jussi Mattila (2020). Detect Changes from a Video (https://www.mathworks.com/matlabcentral/fileexchange/42017-detect-changes-from-a-video), MATLAB Central File Exchange. Retrieved July 10, 2020.]
+<br> [<i>Citation of Source Code utilised in this repository which follows a similar implementation</i> : Jussi Mattila (2020). Detect Changes from a Video
+<br> (https://www.mathworks.com/matlabcentral/fileexchange/42017-detect-changes-from-a-video), MATLAB Central File Exchange. Retrieved July 10, 2020.]
 
